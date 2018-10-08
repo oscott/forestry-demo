@@ -1,0 +1,6 @@
+---
+title: bingo
+layout: post
+date: 2018-10-08 13:28:08 +0000
+
+---
